@@ -1,2 +1,2 @@
-const baseUrl = "https://shop-inventory-management-mern-backend.onrender.com"
+const baseUrl = "https://shop-inventory-management-mern-main.onrender.com"
 export default baseUrl;
