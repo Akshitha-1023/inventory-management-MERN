@@ -6,7 +6,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/api':{
-        target:'https://shop-inventory-management-mern-backend.onrender.com'
+        target:'https://shop-inventory-management-mern-main.onrender.com'
       }
     }
   },
